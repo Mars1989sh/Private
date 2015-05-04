@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen
+END
+NormalCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/NormalCircle.h
+END
+SPLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLine.h
+END
+SPLockScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLockScreen.h
+END
+SPLockOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLockOverlay.h
+END
+NormalCircle.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/NormalCircle.m
+END
+SPLine.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLine.m
+END
+SPLockScreen.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLockScreen.m
+END
+SPLockOverlay.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/SPLockScreen/SPLockOverlay.m
+END

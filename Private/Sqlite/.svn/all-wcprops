@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/telematicsrepos/!svn/ver/8205/clientapp/safer/ios/trunk/Private/Private/Sqlite
+END
+FMDatabase+Package.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/Sqlite/FMDatabase+Package.h
+END
+PrivateDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/telematicsrepos/!svn/ver/8122/clientapp/safer/ios/trunk/Private/Private/Sqlite/PrivateDB.h
+END
+FMDatabase+Package.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/telematicsrepos/!svn/ver/8155/clientapp/safer/ios/trunk/Private/Private/Sqlite/FMDatabase+Package.m
+END
+PrivateDB.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/telematicsrepos/!svn/ver/8205/clientapp/safer/ios/trunk/Private/Private/Sqlite/PrivateDB.m
+END
