@@ -46,7 +46,7 @@
 @implementation DetailViewController
 
 
-
+/*
 -(void)aciton:(id)sender{
     UIButton *button = sender;
     //    POPBasicAnimation *anim = [POPBasicAnimation animationWithPropertyNamed:kPOPViewAlpha];
@@ -67,23 +67,22 @@
     anim2.springSpeed = 0.1;
     [button.layer pop_addAnimation:anim2 forKey:@"sizew"];
 }
+ */
 
 
 -(void)viewWillLayoutSubviews {
     [super viewWillLayoutSubviews];
-    _scrollView.bounces = YES;
-    _contentViewWidth.constant  = self.view.frame.size.width;
-    _contentViewHeight.constant = self.view.frame.size.height<500?self.view.frame.size.height+20:self.view.frame.size.height;
-    NSLog(@"height : %f",self.view.frame.size.height);
     
-    
-    
+    /*
     UIButton *button = [[UIButton alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
     button.center = self.view.center;
     button.backgroundColor = [UIColor redColor];
     [button addTarget:self action:@selector(aciton:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button];
+     */
 }
+
+
 
 -(void)drawRect:(CGRect)rect {
 
@@ -114,11 +113,16 @@
     _passwordTextField.secureTextEntry=NO;
     self.navigationController.navigationBar.tintColor = [UIColor whiteColor];
     self.navigationItem.title = _details?@"Detail":@"Add";
-    
-    
-    
-    
+}
 
+-(void)viewDidAppear:(BOOL)animated
+{
+    [super viewDidAppear:animated];
+    
+    _scrollView.bounces = YES;
+    _contentViewWidth.constant  = self.view.frame.size.width;
+    _contentViewHeight.constant = self.view.frame.size.height<500?self.view.frame.size.height+20:self.view.frame.size.height;
+    NSLog(@"height : %f",self.view.frame.size.height);
 }
 
 
